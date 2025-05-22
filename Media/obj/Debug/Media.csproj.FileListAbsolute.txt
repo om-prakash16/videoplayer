@@ -1,0 +1,15 @@
+H:\visual studio\Media\Media\bin\Debug\Media.exe.config
+H:\visual studio\Media\Media\bin\Debug\Media.exe
+H:\visual studio\Media\Media\bin\Debug\Media.pdb
+H:\visual studio\Media\Media\bin\Debug\Interop.WMPLib.dll
+H:\visual studio\Media\Media\bin\Debug\AxInterop.WMPLib.dll
+H:\visual studio\Media\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+H:\visual studio\Media\Media\obj\Debug\Interop.WMPLib.dll
+H:\visual studio\Media\Media\obj\Debug\AxInterop.WMPLib.dll
+H:\visual studio\Media\Media\obj\Debug\Media.csproj.ResolveComReference.cache
+H:\visual studio\Media\Media\obj\Debug\Media.Form1.resources
+H:\visual studio\Media\Media\obj\Debug\Media.Properties.Resources.resources
+H:\visual studio\Media\Media\obj\Debug\Media.csproj.GenerateResource.cache
+H:\visual studio\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+H:\visual studio\Media\Media\obj\Debug\Media.exe
+H:\visual studio\Media\Media\obj\Debug\Media.pdb
